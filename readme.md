@@ -28,5 +28,5 @@
 contact me @ titusouko@gmail.com
 ### License
 The project is under[MIT license](/blob/master/LICENSE)
-Copyright &copy; 2019.All rigths reserved
+Copyright &copy; 2021.All rigths reserved
   
